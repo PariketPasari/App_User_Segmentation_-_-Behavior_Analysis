@@ -1,4 +1,4 @@
-# User Segmentation Behavior Analysis 
+# App User Segmentation & Behavior Analysis 
 
 ## Problem Statement
 Understanding and analyzing user behavior on a mobile app is essential for app developers and marketers. The challenge is to identify patterns and factors influencing user engagement, retention, or churn.
