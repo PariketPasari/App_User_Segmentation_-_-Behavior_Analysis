@@ -55,7 +55,7 @@ The dataset includes the following features:
 
 ![image](https://github.com/PariketPasari/App_User_Segmentation_and_Behavior_Analysis/assets/49834871/f4b8c479-435a-4891-b92f-2330ceebc1f0)
 
-- **Clusters**
+**Clusters**
 - Cluster 0: Retained Users
 - Cluster 1: Lost Users
   
